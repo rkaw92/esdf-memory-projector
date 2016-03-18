@@ -1,0 +1,30 @@
+{
+  "name": "esdf-memory-projector",
+  "version": "0.1.0",
+  "description": "an in-memory projection engine for esdf reporting stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkaw92/esdf-memory-projector.git"
+  },
+  "keywords": [
+    "esdf",
+    "in-memory",
+    "projection",
+    "reporting",
+    "store",
+    "cqrs"
+  ],
+  "author": "Robert Kawecki <robert+npm@rkaw.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkaw92/esdf-memory-projector/issues"
+  },
+  "homepage": "https://github.com/rkaw92/esdf-memory-projector#readme",
+  "dependencies": {
+    "when": "^3.7.7"
+  }
+}
